@@ -72,5 +72,59 @@
             "tsc_no": 2718,
             "department": "Social Studies"
         }
+    ],
+    "subjects": [
+        {
+            "id": 1,
+            "subject_name": "Maths"
+        },
+          {
+            "id": 2,
+            "subject_name": "English"
+        },
+          {
+            "id": 3,
+            "subject_name": "Kiswahili"
+        },
+          {
+            "id": 4,
+            "subject_name": "Science"
+        },
+          {
+            "id": 5,
+            "subject_name": "Social Studies"
+        }
+    ],
+    "non_teaching_staff":[
+        {
+            "id": 1,
+            "first_name": "Michael",
+            "last_name": "Onderi",
+            "designation": "cleaner",
+        },
+           {
+            "id": 2,
+            "first_name": "Peva",
+            "last_name": "Magwe",
+            "designation": "secretary",
+        },
+           {
+            "id": 3,
+            "first_name": "Lilly",
+            "last_name": "Sago",
+            "designation": "lab_tech",
+        },
+           {
+            "id": 4,
+            "first_name": "River",
+            "last_name": "Tigan",
+            "designation": "cook",
+        },
+           {
+            "id": 1,
+            "first_name": "Jema",
+            "last_name": "Mego",
+            "designation": "bursar",
+        }
     ]
 }
